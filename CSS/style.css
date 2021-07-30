@@ -32,3 +32,16 @@
   height: 40vh;
   margin: 1rem  1.5%;
 }
+
+
+/* Media Quiery */
+@media screen and (max-width:900px){
+  .dog-imag{
+    width:45%;
+  }
+}
+@media screen and (max-width:600px){
+  .dog-imag{
+    width:90%;
+  }
+}
