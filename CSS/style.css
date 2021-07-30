@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+.title {
+  margin: 1rem 0rem 0rem 1rem;
+}
+
+.refresh {
+  margin: 1rem 2rem 1rem 1rem;
+  width: 18px;
+  height: auto;
+}
+
+.dog-imag {
+  box-shadow: 2px 2px 12px rgba(182, 182, 182, 0.533);
+  border-radius: 8px;
+  max-width: 90vw;
+  min-width: 90vw;
+
+  margin: 0rem 1rem 0.5rem 1rem;
+}
